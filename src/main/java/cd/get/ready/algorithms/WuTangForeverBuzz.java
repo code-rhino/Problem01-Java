@@ -2,7 +2,7 @@ package cd.get.ready.algorithms;
 
 public class WuTangForeverBuzz {
 
-    public String wuTangClan(){
+    public String wuTangClan(int value){
         return null;
     }
 }
